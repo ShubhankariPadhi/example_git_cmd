@@ -1,0 +1,19 @@
+{
+  "name": "git_cmds",
+  "version": "1.0.0",
+  "description": "practicing git commands with sass examples",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch sass/main.scss:css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhankariPadhi/example_git_cmd.git"
+  },
+  "author": "subhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhankariPadhi/example_git_cmd/issues"
+  },
+  "homepage": "https://github.com/ShubhankariPadhi/example_git_cmd#readme"
+}
